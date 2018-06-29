@@ -1,0 +1,10 @@
+{
+    "gitbook" : "3.2.3",
+    "plugins": [
+        "hints",
+        "codetabs",
+        "api",
+        "splitter",
+        "expandable-chapters"
+    ]
+}

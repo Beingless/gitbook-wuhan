@@ -16,30 +16,17 @@ This is ~~Strikethrough~~
 
 ## Code Blocks
 
-{% code-tabs %}
-{% code-tabs-item title="unnamed.js" %}
 ```javascript
-
-
 function getCurrentDateStart() { var curr_time = new Date(); var strDate = curr_time.getFullYear() + "-"; strDate += ((curr_time.getMonth() + 1) < 10 ? ('0' + (curr_time.getMonth() + 1)) : (curr_time.getMonth() + 1))
 "-";strDate += curr_time.getDate() < 10? ('0' + curr_time.getDate()): curr_time.getDate();return strDate;}
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title=undefined %}
 ```javascript
 function Hello() {
     Console.log('Hi')
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-
 
 ## Quote
 
 > This is a quote
-
-
-

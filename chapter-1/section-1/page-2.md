@@ -11,8 +11,3 @@ May the fourth be with you.
 ### Image
 
 ![gum shoes](../../.gitbook/assets/gumshoe.jpg)
-
-### 
-
-
-
