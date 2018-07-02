@@ -13,3 +13,4 @@
 | tmux | terminal multiplexer | Unix-like | 是 |
 | fish | shell | Unix-like | 是 |
 | awesome | 窗口管理器 | Unix-like | 是 |
+| Emacs | 编辑器 | 多平台 | 是 |
