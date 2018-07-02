@@ -10,3 +10,6 @@
 | Dependency Walker | 依赖查询 | Windows | 否 |
 | dumpbin | 二进制文件 dumper | Windows | 否 |
 | ProcessExplorer | 进程浏览 | Windows | 否 |
+| tmux | terminal multiplexer | Unix-like | 是 |
+| fish | shell | Unix-like | 是 |
+| awesome | 窗口管理器 | Unix-like | 是 |
