@@ -19,3 +19,5 @@
 | Virtual Box | 虚拟机 | 多平台 | 是 |
 | Wox | 快速启动 | Windows | 是 |
 | Rime | 输入法 | 多平台 | 是 |
+| tmux | terminal multiplexer | Unix-like | 是 |
+| fish | shell | Unix-like | 是 |
