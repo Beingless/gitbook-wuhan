@@ -6,6 +6,6 @@
 * [杂项](miscellaneous/README.md)
   * [常用工具](miscellaneous/tools.md)
   * [不常用工具](miscellaneous/tools-ex.md)
-* [读书笔记](du-shu-bi-ji.md)
+* [读书笔记](reading-notes/README.md)
 * [LICENSE](LICENSE.md)
 
